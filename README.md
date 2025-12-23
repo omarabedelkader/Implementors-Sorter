@@ -2,7 +2,7 @@
 
 ```st
 Metacello new
-  githubUser: 'omarabedelkader' project: 'Senders-Sorter' commitish: 'main' path: 'src';
-  baseline: 'SendersSorter';
+  githubUser: 'omarabedelkader' project: 'Implementors-Sorter' commitish: 'main' path: 'src';
+  baseline: 'ImplementorsSorter';
   load
 ```
